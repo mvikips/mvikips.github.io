@@ -31,10 +31,10 @@
 <a href="https://www.instagram.com/mvikips" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 * 📧 **Email:** [y6d3y69e@gmail.com](mailto:y6d3y69e@gmail.com)
-* 🇺🇾 **Ubicación:** Cono Sur (Uruguay / Argentina)
+* 🇺🇾 **Ubicación:** Cono Sur (Brasil | Uruguay | Argentina)
 
 ---
 
 <div align="center">
-  <sub>Maria Victoria P. Sitzer © 2026 | Perfil Profesional de Alta Integridad</sub>
+  <sub>Maria Victoria P. Sitzer © 2026</sub>
 </div>
