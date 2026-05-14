@@ -1,40 +1,74 @@
-# Maria Victoria P. Sitzer
-> **Líder Técnica y Estrategia de Datos | Ingeniería y Auditoría aplicada a la Salud | Auditoría de Integridad**
+# Hola, soy Maria Victoria P. Sitzer 👋
+
+## Líder Técnica y Estrategia de Datos | Ingeniería y Auditoría aplicada a la Salud | Auditoría de Integridad
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Líder_Técnica-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Salud_&_Diabetes-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-Big_Data_&_Audit-green?style=for-the-badge" />
+</p>
 
 ---
 
-### 📋 Resumen Ejecutivo (Spanish)
-**Líder Técnica enfocada en arquitecturas de Big Data y Visual Analytics aplicadas a la salud.** Especializada en la supervisión de procesos de auditoría para garantizar la veracidad, soberanía y cumplimiento normativo en sistemas de datos críticos. Mi enfoque integra el análisis masivo de datos con la integridad técnica necesaria para entornos institucionales de alta complejidad.
+### 📑 Sobre mí
 
-### 🇧🇷 Resumo Executivo (Portuguese)
-**Líder Técnica focada em arquiteturas de Big Data e Visual Analytics aplicadas à saúde.** Especialista na supervisão de processos de auditoria para garantir a veracidade, soberania e conformidade normativa em sistemas de dados críticos. Minha abordagem integra a análise massiva de dados com a integridade técnica necessária para ambientes institucionais de alta complexidade.
+Soy una profesional enfocada en la **Arquitectura de Confianza** y la **Gobernanza de Datos**. Mi trabajo combina la ingeniería de datos con el rigor de la auditoría para garantizar que la información en sistemas críticos (Salud y Sector Público) sea íntegra, veraz y segura.
 
-### 🇺🇸 Executive Summary (English)
-**Tech Lead focused on Big Data architectures and Visual Analytics applied to healthcare.** Specialized in supervising audit processes to ensure veracity, data sovereignty, and regulatory compliance in critical data systems. My approach integrates massive data analysis with the technical integrity required for high-complexity institutional environments.
+* **Liderazgo Estratégico:** Experiencia seleccionando arquitecturas y mentorizando equipos técnicos en la implementación de frameworks de calidad.
+* **Auditoría de Integridad:** Especializada en la validación de datos masivos y cumplimiento normativo para la prevención de fraude.
+* **Investigación en Salud:** Mi objetivo principal es aplicar **Visual Analytics y Big Data** en el análisis de patologías crónicas como la **Diabetes**.
 
 ---
 
-### 🎓 Formación Académica / Academic Background
+### 🚀 Áreas de Especialización
 
-| Titulación | Institución | Detalles |
+| Estrategia y Gestión | Ingeniería y Big Data | Auditoría y Calidad |
 | :--- | :--- | :--- |
-| **Ingeniería de Sistemas** | TECH Universidad Tecnológica | Finalización 2026. Equiv. EE. UU.: Bachelor of Science in IT (RVOE n.° 20210871) |
-| **Maestría Oficial en Análisis Visual y Macrodatos** | TECH Universidad Tecnológica | Proyectada Post-Graduación. Equiv. EE. UU.: Master of Science in Data Analytics (RVOE n.° 20232095) |
-| **Máster Propio en Visual Analytics e Big Data** | TECH Universidad Tecnológica | Fase Teórica Finalizada (2025). Especialización en integridad del dato. |
+| Liderazgo Técnico (Tech Lead) | Visual Analytics Avanzado | Auditoría de Integridad de Datos |
+| Gobernanza de Datos | Arquitectura de Macrodatos | Prevención de Fraude en Sistemas |
+| Estrategia de Datos en Salud | Python & Ecosistema Data | Cumplimiento Normativo (LGPD) |
 
 ---
 
-### ✉️ Contacto / Contact Information
+### 🔬 Proyectos Destacados de Auditoría y Liderazgo
 
-<a href="https://wa.me/59895528728" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.linkedin.com/in/mariavictoriaperera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mvikips" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+#### 🛡️ [Auditoría de Frameworks de QA & Integridad](enlace-a-tu-repo)
+* **Rol:** Líder Técnica y Auditora.
+* **Descripción:** Supervisión y selección estratégica de arquitecturas para la validación automática de datos masivos. Auditoría de resultados para garantizar evidencias legales de integridad.
 
-* 📧 **Email:** [y6d3y69e@gmail.com](mailto:y6d3y69e@gmail.com)
-* 🇺🇾 **Ubicación:** Cono Sur (Brasil | Uruguay | Argentina)
+#### 📊 [Análisis Visual aplicado a la Salud (Diabetes)](enlace-a-tu-repo)
+* **Rol:** Investigadora de Datos.
+* **Descripción:** Implementación de modelos de Visual Analytics para la identificación de patrones en datos de pacientes crónicos.
 
 ---
 
-<div align="center">
-  <sub>Maria Victoria P. Sitzer © 2026</sub>
-</div>
+### 🎓 Formación y Certificaciones
+
+* **Ingeniería de Sistemas** - TECH Universidad Tecnológica (En curso)
+* **Máster en Visual Analytics e Big Data** - TECH Universidad Tecnológica
+* **Candidata a Maestría Oficial en Análisis Visual y Macrodatos** (MSc in Data Analytics)
+
+---
+
+### 🛠️ Herramientas y Tecnologías
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Big_Data-011E3C?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Conectemos
+* [LinkedIn](tu-enlace-a-linkedin)
+* [Portafolio Web](tu-enlace-si-tienes)
+* 📧 Email: [tu-email]
+
+---
+<p align="center">
+  <i>"Transformando datos en integridad, y tecnología en salud."</i>
+</p>
